@@ -1,0 +1,2 @@
+watchdog==4.0.1
+matplotlib==3.9.4
